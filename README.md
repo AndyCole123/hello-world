@@ -1,5 +1,5 @@
 # hello-world
-Traing repository
+Training repository
 
 I am adding a lot of new text but it is only in this branch
 so there
